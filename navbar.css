@@ -3,6 +3,7 @@
   overflow: hidden;
   position: fixed;
   top: 0;
+  height: 50px;
   width: 100%;
   z-index: 1;
 }
@@ -74,4 +75,13 @@
 
 .language-dropdown:hover .language-dropdown-content {
   display: block;
+}
+
+#page-container {
+    margin-top: 50px;
+}
+
+.pf {
+    margin-top: 0;
+    margin-bottom: 0;
 }
